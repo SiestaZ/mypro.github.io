@@ -1,0 +1,55 @@
+div.sticky .daohang{
+    width: 50px;
+    height: 200px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+div.sticky{
+    position: sticky;
+    top: -250px;
+    transform: translate(1600px,270px);
+}
+
+div.sticky a{
+    font-size: 13px;
+    text-align: center;
+    background-color:#fff;
+    display: block;
+    width: 34px;
+    height: 44px;
+    line-height: 15px;
+    padding: 6px 8px 0 8px;
+    color: rgb(60, 60, 60);
+}
+div.sticky a.choice{
+    width: 34px;
+    height: 40px;
+    color: #fff;
+    padding:10px 8px 0 8px;
+    background-color: rgb(255, 127, 19);
+}
+
+div.sticky a.diff{
+    color: #f40;
+    
+}
+
+div.sticky a:hover{
+    background-color: rgb(255, 127, 19);
+    color: #fff;
+}
+
+div.sticky a.fankui{
+    line-height: 40px;
+}
+
+div.sticky span{
+    display: block;
+    font-size: 20px;
+    color: #ff7f13;
+    font-weight: bold;
+    position: absolute;
+    top: -15px;
+    left: 10px;
+}

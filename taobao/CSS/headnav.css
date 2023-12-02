@@ -1,0 +1,187 @@
+.headNav{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    padding: 20px;
+}
+
+.headNav .nav .aside{
+    padding: 20px;
+    background-color: rgb(247, 249, 250);
+    width: 270px;
+    height: 360px;
+    border-radius: 18px;
+}
+
+.headNav .nav .aside h2{
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.headNav .nav .aside li{
+    color: rgb(102, 102, 102);
+    line-height: 20px;
+    font-size: 14px;
+    margin-bottom: 18px;
+}
+
+.headNav .nav .aside li span{
+    padding: 0 8px;
+}
+
+.headNav .nav .aside li:hover{
+    color: #f40;
+}
+
+.headNav .nav .aside li a:hover{
+    text-decoration-line: underline;
+}
+
+.headNav .nav{
+    position: relative;
+}
+
+.headNav .nav .mainBox .top{
+    width: 865px;
+    height: 45px;
+    font-size: 16px;
+    position: absolute;
+    line-height: 45px;
+    background-color: rgb(247, 249, 250);
+    border-radius: 18px;
+    top: 0;
+    left: 320px;
+}
+
+.headNav .nav .mainBox .top a{
+    padding: 0 20px;
+}
+
+.headNav .nav .mainBox .top a:hover{
+    color: rgb(255, 80, 0);
+}
+
+.headNav .nav .mainBox .top span{
+    color: rgb(224, 224, 224);
+}
+
+.headNav .nav .mainBox .top .selete{
+    color: rgb(255, 80, 0);
+}
+
+.headNav .nav .mainBox .top .selete1{
+    color: #33c900;
+}
+
+.headNav .nav .mainBox .main .img{
+    position: absolute;
+    top: 80px;
+    left: 320px;
+}
+
+.headNav .nav .mainBox .main .img img{
+    width: 564px;
+    height: 315px;
+}
+
+.headNav .nav .mainBox .main .information{
+    position: absolute;
+    right: 0;
+    top: 80px;
+    width: 270px;
+}
+
+.headNav .nav .mainBox .main .information .hello{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0 auto;
+    overflow: hidden;
+    font-size: 16px;
+}
+
+.headNav .nav .mainBox .main .information .text{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.headNav .nav .mainBox .main .information .text:hover,.headNav .nav .mainBox .main .information .shop a:hover{
+    color: #f40;
+}
+
+.headNav .nav .mainBox .main .information .shop span{
+    font-size: 24px;
+}
+
+.headNav .nav .mainBox .main .information .shop p{
+    font-size: 12px;
+}
+
+.headNav .nav .mainBox .main .information .log{
+    margin-top: 25px;
+}
+
+.headNav .nav .mainBox .main .information .log button{
+    width: 80px;
+    height: 42px;
+    border-radius: 21px;
+    font-size: 16px;
+    color: #fff;
+}
+
+.headNav .nav .mainBox .main .information .log button.login{
+    background-color: #ff5000;
+}
+
+.headNav .nav .mainBox .main .information .log button.registered{
+    background-color: #ff9000;
+}
+
+.headNav .nav .mainBox .main .information .log button.open{
+    color: #ff5000;
+    border: 1px solid #FF915E;
+    background-color: #fff;
+}
+
+.headNav .nav .mainBox .main .information .shop li{
+    display: block;
+    width: 48px;
+    height: 41px;
+    text-align: center;
+}
+
+.headNav .nav .mainBox .main .information .shop ul{
+    margin-top: 30px;
+    width: 250px;
+    height: 41px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headNav .nav .mainBox .main .information .news{
+    width: 252px;
+    height: 18px;
+    font-size: 12px;
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    margin-top: 32px;
+}
+
+.headNav .nav .mainBox .main .information .news .hot{
+    float: left;
+    width: 32px;
+    height: 18px;
+    color: rgb(255, 80, 0);
+    background-color: #ffefef;
+    text-align: center;
+    line-height: 18px;
+    margin-right: 4px;
+}
+
+.headNav .nav .mainBox .main .information .news a{
+    line-height: 18px;
+}

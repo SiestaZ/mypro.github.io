@@ -1,0 +1,174 @@
+.tail{
+    width: 100%;
+    margin-top: 20px;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.tail .footer{
+    width: 1200px;
+    padding: 20px;
+    /* height: 100px; */
+    /* background-color: aquamarine; */
+    margin: 0 auto;
+}
+
+.tail .footer .top{
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+}
+
+.tail .footer .top span,.tail .footer .top a{
+    font-size: 12px;
+    color: #9c9c9c;
+}
+
+.tail .footer .top span{
+    margin: 0 4px;
+}
+
+.tail .footer .top a{
+    margin: 0 3px;
+}
+
+.tail .footer .top a:hover{
+    color: #f40;
+}
+
+.tail .footer .middle .first{
+    display: block;
+    padding-bottom: 8px;
+    overflow: hidden;
+    padding-top: 15px;
+}
+
+.tail .footer .middle .first li{
+    float: left;
+    font-size: 12px;
+    color: #6c6c6c;
+    margin-right: 5px;
+}
+
+.tail .footer .middle .first li a:hover{
+    color: #f40;
+}
+
+.tail .footer .middle .first li span{
+    color: #9c9c9c;
+}
+
+.tail .footer .middle .first li span.banquan{
+    margin-left: 30px;
+}
+
+.tail .footer .middle .second{
+    font-size: 12px;
+    color: #9c9c9c;
+}
+
+.tail .footer .middle .second li{
+    float: left;
+    margin: 0 4px;
+}
+
+.tail .footer .middle .third{
+    display: block;
+    margin-top: 14px;
+    font-size: 12px;
+}
+
+.tail .footer .middle .third li a span{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(./../img/一堆图.jpg);
+    background-position: -861px -1px;
+    position: absolute;
+}
+
+.tail .footer .middle .third li{
+    color: #9c9c9c;
+    float: left;
+    line-height: 20px;
+    margin: 0 4px;
+}
+
+.tail .footer .middle .third li a{
+    color: #6c6c6c;
+    line-height: 20px;
+    position: relative;
+}
+
+.tail .footer .middle .third li a:hover{
+    color: #f40;
+}
+
+.tail .footer .bottom{
+    margin-top: 13px;
+}
+
+.tail .footer .bottom span a{
+    display: inline-block;
+}
+
+.tail .footer .bottom span{
+    margin: 0 4px;
+}
+
+.tail .footer .bottom span a{
+    margin-right: 15px;
+}
+
+.tail .footer .bottom span .img1{
+    width: 30px;
+    height: 40px;
+    background-image: url(./../img/一堆图.jpg);
+}
+
+.tail .footer .bottom span .img2{
+    width: 50px;
+    height: 40px;
+    background: url(./../img/一堆图.jpg);
+    background-position: -81px 0;
+}
+
+.tail .footer .bottom span .img3{
+    width: 83px;
+    height: 40px;
+    background: url(./../img/一堆图.jpg);
+    background-position: -140px 0;
+}
+
+.tail .footer .bottom span .img4{
+    width: 226px;
+    height: 40px;
+    background: url(./../img/一堆图.jpg);
+    background-position: -424px 0;
+}
+
+.tail .footer .bottom span .img5{
+    width: 105px;
+    height: 40px;
+    background: url(./../img/一堆图.jpg);
+    background-position: -650px 0;
+}
+
+.tail .footer .bottom span .img5{
+    width: 249px;
+    height: 40px;
+    background: url(./../img/一堆图.jpg);
+    background-position: -884px 0;
+}
+
+.tail .footer .bottom span .img6{
+    width: 249px;
+    height: 40px;
+    background: url(./../img/背景1.jpg);
+}
+
+.tail .footer .bottom span .img7{
+    width: 148px;
+    height: 71px;
+    background: url(./../img/背景2.png);
+    background-size: contain;
+}
